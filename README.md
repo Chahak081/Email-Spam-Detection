@@ -1,5 +1,5 @@
 #  Spam-Detection
-The purpose of this work is to demonstrate a simple email spam classification model using logistic regression and TF-IDF (Term Frequency-Inverse Document Frequency) vectorization. It reads a CSV file ('mail_data.csv') containing email messages labeled as 'spam' or 'ham' (non-spam) and trains a logistic regression model to classify emails as spam or ham. It also evaluates the model's accuracy on training and testing data. Additionally, it allows users to input their own email messages for prediction using a Streamlit web application.
+The purpose of this work is to demonstrate a simple email spam classification model using logistic regression and TF-IDF (Term Frequency-Inverse Document Frequency) vectorization. It reads a CSV file ('mail_data.csv') containing email messages labeled as 'spam' or 'ham' (non-spam) and trains a logistic regression model to classify emails as spam or ham. It also evaluates the model's accuracy on training and testing data. Additionally, it allows users to input email messages for prediction using  Streamlit web application.
 
 # Code Structure:
 * Importing Libraries: Import the necessary libraries - pandas, numpy, scikit-learn's train_test_split, TfidfVectorizer, LogisticRegression, and accuracy_score.
