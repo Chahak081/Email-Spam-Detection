@@ -29,7 +29,7 @@ The purpose of this work is to demonstrate a simple email spam classification mo
 * By using TF-IDF, the model learns to identify important keywords or features in emails that distinguish spam from non-spam
 
 
-# Code Funcgtionality:
+# Code Functionality:
 * Follow the .ipynb file for code
 * For deployment run given command in terminal to land onto the local host-
 ```
