@@ -31,11 +31,11 @@ The purpose of this work is to demonstrate a simple email spam classification mo
 
 # Code Funcgtionality:
 * Follow the .ipynb file for code
-* For deployment run-
+* For deployment run given command in terminal to land onto the local host-
 ```
 streamlit run app.py
 ```
- in terminal to land onto the local host.
+
 
 ## Contributing :↓
 
