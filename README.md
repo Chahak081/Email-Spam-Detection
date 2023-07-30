@@ -28,6 +28,15 @@ The purpose of this work is to demonstrate a simple email spam classification mo
 * It is a common technique in Natural Language Processing (NLP) to convert textual data into numerical form, making it suitable for machine learning algorithms.
 * By using TF-IDF, the model learns to identify important keywords or features in emails that distinguish spam from non-spam
 
+
+# Code Funcgtionality:
+* Follow the .ipynb file for code
+* For deployment run-
+```
+streamlit run app.py
+```
+ in terminal to land onto the local host.
+
 ## Contributing :↓
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Pull requests are also welcome.
